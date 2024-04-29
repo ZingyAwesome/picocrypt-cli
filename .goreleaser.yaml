@@ -16,8 +16,8 @@ universal_binaries:
 
 archives:
   - files:
-    - none*
-  - format: tar.gz
+      - none*
+    format: tar.gz
     name_template: >-
       {{ .ProjectName }}_
       {{- .Os }}
