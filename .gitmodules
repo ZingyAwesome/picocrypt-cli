@@ -1,0 +1,3 @@
+[submodule "Picocrypt"]
+	path = Picocrypt
+	url = https://github.com/HACKERALERT/Picocrypt
