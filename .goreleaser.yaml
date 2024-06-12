@@ -1,6 +1,6 @@
 project_name: picocrypt
 builds:
-  - dir: ./Picocrypt/cli/v2/picocrypt
+  - dir: ./CLI/picocrypt
     env:
       - CGO_ENABLED=0
     goos:
